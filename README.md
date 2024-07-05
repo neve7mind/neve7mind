@@ -49,10 +49,9 @@
   </a> 
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neve7mind&show_icons=true&locale=en&layout=compact" alt="neve7mind" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neve7mind&show_icons=true&locale=en&layout=donut" alt="neve7mind" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neve7mind&show_icons=true&locale=en" alt="neve7mind" /></p>
-
 
 
